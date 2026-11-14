@@ -10,6 +10,7 @@
 
 void GPIOA_Config(void);
 void GPIOB_Config(void);
+
 void GPIO_WritePin(GPIO_TypeDef *GPIOx, uint32_t GPIO_Pin, uint8_t estado);
 uint8_t GPIO_ReadPin(GPIO_TypeDef *GPIOx, uint32_t GPIO_Pin);
 
