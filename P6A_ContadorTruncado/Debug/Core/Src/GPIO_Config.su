@@ -1,0 +1,4 @@
+../Core/Src/GPIO_Config.c:11:6:GPIOA_Config	4	static
+../Core/Src/GPIO_Config.c:25:6:GPIOB_Config	4	static
+../Core/Src/GPIO_Config.c:38:6:GPIO_WritePin	24	static
+../Core/Src/GPIO_Config.c:44:9:GPIO_ReadPin	16	static
